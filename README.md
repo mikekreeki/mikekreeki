@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Mike, I'm a software developer with 10 years of experience.
+I'm Mike, I'm a software developer with 10+ years of experience.
 
-- 🚀 I’m currently working as a Full-stack Developer at [productboard](http://productboard.com)
-- 🐿 In my free time I'm working on [Lunatask](https://github.com/mikekreeki/tasks-releases), a personal productivity app for macOS
+- 🚀 Ex full-stack developer at [Productboard](http://productboard.com), now indie hacker on [Lunatask](https://lunatask.app)
 - 💬 Ask me about React / Ruby / Rails / Node / TypeScript / Electron / React Native / Redux / PostgreSQL / MongoDB / Kafka / Webpack / Git / Kubernetes or Heroku
 - 🌱 I’m currently learning Kafka and event-driven architectures
 - 📫 How to reach me: [email](mailto:work@mikekreeki.com) / [linkedin](https://www.linkedin.com/in/mikekreeki/)
